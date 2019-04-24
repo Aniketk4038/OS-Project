@@ -46,7 +46,7 @@ int main()
    
         prio[z]=prio[pos];
    
-        prio[pos]=temp1;
+        prio [pos]=temp1;
          
             temp1=b_time[z];
             b_time[z]=b_time[pos];
