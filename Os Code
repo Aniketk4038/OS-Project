@@ -24,7 +24,7 @@ int main()
             printf("Burst Time:\t");
             scanf("%d", &b_time[i]);
             temp[i] = b_time[i];
-     }
+      }
        
       printf("\nEnter the Time Quantum:");
       scanf("%d", &timeq);
